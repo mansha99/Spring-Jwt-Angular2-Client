@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Angular QuickStart Source
 [![Build Status][travis-badge]][travis-badge-url]
 
@@ -143,3 +144,7 @@ Shut it down manually with `Ctrl-C`.
 
 [travis-badge]: https://travis-ci.org/angular/quickstart.svg?branch=master
 [travis-badge-url]: https://travis-ci.org/angular/quickstart
+=======
+# Spring-Jwt-Angular2-Client
+Angular2 Client for Spring JWT based authentication
+>>>>>>> 228edf07aa16e38a26d6ad846a3b2dbd9c2bca6c
